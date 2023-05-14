@@ -1,0 +1,150 @@
+
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.container{
+    height:905px;
+    width:900px;
+    margin:10px auto;
+    display: flex;
+    flex-wrap: wrap;
+    border:1px solid black;
+}
+
+.one{
+    height:352.5px;
+    width:349.5px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: green;
+    
+}
+.one div{
+    height:51px;
+    width:47.9px;
+   
+    
+}
+
+/* ............................................ */
+.two{
+    height:350px;
+    width:200px;
+    border:1px solid red;
+    display: flex;
+    flex-wrap: wrap;
+}
+.two div{
+    height:56.7px;
+    width:64.6px;
+    border: 1px solid black;
+}
+
+/* ............................................ */
+
+
+.three{
+    height:352px;
+    width:347px;
+    background-color: red;
+    display: flex;
+    flex-wrap: wrap;
+}
+.three div{
+    height:51px;
+    width:48px;
+    
+}
+
+/* ............................................ */
+
+
+.four{
+    height:200px;
+    width:350px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.four div{
+    height:65px;
+    width:56.2px;
+    border: 1px solid black;
+}
+/* ............................................ */
+
+.five{
+    height:200px;
+    width:200px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.five div{
+    height:0;
+    width:0;
+    border-top:100px solid red;
+    border-bottom:100px solid yellow;
+    border-left:100px solid green;
+    border-right:100px solid blue;
+}
+
+/* ............................................ */
+.six{
+    height:200px;
+    width:349.5px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.six div{
+    height:65px;
+    width:56px;
+    border: 1px solid black;
+}
+
+/* ............................................ */
+.seven{
+    height:349px;
+    width:349.5px;
+    background-color: yellow;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.seven div{
+    height:50px;
+    width:47.8px;
+    
+}
+
+/* ............................................ */
+.eight{
+    height:350px;
+    width:200px;
+    border:1px solid red;
+    display: flex;
+    flex-wrap: wrap;
+}
+.eight div{
+    height:56.5px;
+    width:64.5px;
+    border: 1px solid black;
+}
+
+/* ............................................ */
+.nine{
+    height:350px;
+    width:346px;
+    background-color: blue;
+    display: flex;
+    flex-wrap: wrap;
+}
+.nine div{
+    height:50px;
+    width:48px;
+}
+/* ............................................ */
+.white{
+    background-color: aliceblue;
+}
+
